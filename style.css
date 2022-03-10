@@ -1,0 +1,131 @@
+*{
+    padding: 5;
+    margin: 0;
+    text-decoration: none;
+    list-style: none;
+    box-sizing: border-box;
+}
+body{
+    background: black;
+}
+header{
+    background: url(./bg_img\ 1.jpg);
+}
+
+
+.oqjon{
+    color: white;
+    margin: auto;
+}
+.olo{
+    color: white;
+}
+
+ul li{
+    width: 127px;
+}
+span{
+    border-radius: 50%;
+    background: white;
+}
+.butn{
+    width: 350px;
+    height: 100px;
+    background: #4E9F0D;
+    font-size: 60px;
+    text-align: center;
+    color: white;
+    margin: 52px 0px 135px 0px;
+}
+
+.logo{
+    width: 100px !important ;
+    background: #4E9F0D;
+    align-items: center;
+    height: 30px;
+    color: white;
+    /* margin: 30px 0px 0px 0px; */
+}
+
+header ul{
+    width: 400px !important;
+    align-items: center;
+}
+.yashil{
+    height: 90px;
+    align-items: center;
+}
+.ol:hover{
+    background: #4E9F0D;
+    color: white;
+}
+.oq:hover{
+    /* background: #4E9F0D; */
+    color: #4E9F0D;
+}
+.p_1{
+    color: #4E9F0D;
+    font-size: 18px;
+}
+.h1_1{
+    color: #4E9F0D;
+    margin: 150px 0px 53px 0px  ;
+    font-size: 72px;
+}
+.p-1{
+    color: white;
+}
+main .container .row .col-lg-4 div{
+    background: url(./Без\ имени-1\ 1.png);
+    width: 350px;
+    height: 350px;
+}
+main .container .row .col-lg-4 div:hover{
+    background: url(./Без\ имени-1\ 1.png) ;
+    background: #4E9F0D ;
+
+    opacity: 0.5;
+}
+
+.h3-1{
+    color: #4E9F0D;
+    margin: 36px 0px 20px 0px;
+}
+.narx{
+    width: 190px;
+    height: 60px;
+    align-items: flex-end;
+    background: #4E9F0D;
+    color: white;
+    font-size: 24px;
+}
+section{
+    background: url();
+}
+.h2{
+    width: 500px;
+    margin:auto;
+    color: #4E9F0D;
+}
+hr{
+    margin:0px auto 15px;
+    color:#4e9f0d;
+    width: 100px;
+}
+.harita{
+    background: url;
+    height: 502px;
+}
+.pend{
+    background: #4E9F0D;
+    color: white;
+    width: 100px;
+}
+
+span{
+    background: transparent;
+    color: #4e9f0d;
+}
+#lin{
+    justify-content: center;
+}
